@@ -332,7 +332,7 @@ function queryJSON(id) {
 function testGETjson(id) {        
     $.ajax({
         type: "GET",
-        url: "https://raw.githubusercontent.com/perezsam/esp1/pages/es/" + id + ".json",
+        url: "https://raw.githubusercontent.com/perezsam/esp1/gh-pages/captions/es/" + id + ".json",
         dataType: "json",
         //data: { 'pageCounter': page},
         success: function(data) {
@@ -350,7 +350,7 @@ function testGETjson(id) {
             // rer es cc if verified
             if(es_cc == 1){             
 
-                $.getJSON("https://raw.githubusercontent.com/perezsam/esp1/pages/en/" + id + ".json", function(json) {     
+                $.getJSON("https://raw.githubusercontent.com/perezsam/esp1/gh-pages/captions/en/" + id + ".json", function(json) {     
                     //console.log(json); // this will show the info it in firebug console
                     spanishContent = json.json                                         
                 });
