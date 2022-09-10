@@ -328,7 +328,7 @@ function queryJSON(id) {
 
 // request ES captions
 function queryESsub(id) {    
-     $.getJSON("https://raw.githubusercontent.com/espixl/cc/main/es/" + id + ".json", function(json) {     
+     $.getJSON("https://raw.githubusercontent.com/perezsam/esp1/pages/es/" + id + ".json", function(json) {     
         //console.log(json); // this will show the info it in firebug console
         content = json.json
         //console.log(json.video_id)
@@ -343,7 +343,7 @@ function queryESsub(id) {
 
 // request ZH captions
 function queryZHsub(id) {
-     $.getJSON("https://raw.githubusercontent.com/espixl/cc/main/zh/" + id + ".json", function(json) {     
+     $.getJSON("https://raw.githubusercontent.com/perezsam/esp1/pages/es/" + id + ".json", function(json) {     
         //console.log(json); // this will show the info it in firebug console
         spanishContent = json.json
         //console.log(json.video_id)                      
