@@ -343,7 +343,7 @@ function queryESsub(id) {
 
 // request ZH captions
 function queryZHsub(id) {
-     $.getJSON("https://raw.githubusercontent.com/perezsam/esp1/pages/es/" + id + ".json", function(json) {     
+     $.getJSON("https://raw.githubusercontent.com/perezsam/esp1/pages/en/" + id + ".json", function(json) {     
         //console.log(json); // this will show the info it in firebug console
         spanishContent = json.json
         //console.log(json.video_id)                      
