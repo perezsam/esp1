@@ -1,0 +1,32 @@
+{
+    "author": "Benito Pérez Galdós",
+    "book_title": "La batalla de los Arapiles",
+    "author_id": "perezgaldos",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "CAPÍTULO I",
+        "start": "Las siguientes cartas, supliendo ventajosamente mi narración, me permitirán descansar un poco."
+      },
+      {
+        "number": 2,
+        "title": "CAPÍTULO II",
+        "start": "Cuando recibí esta carta, marchaba a unirme al ejército llamado de Extremadura, pero que no estaba ya en Extremadura, sino en Fuente Aguinaldo, territorio de Salamanca."
+      },
+      {
+        "number": 3,
+        "title": "CAPÍTULO III",
+        "start": "Después de larguísima jornada durante la tarde y gran parte de una hermosísima noche de Junio, España ordenó que descansásemos en Santibáñez de Valvaneda, pueblo que está sobre el camino de Béjar a Salamanca."
+      },
+      {
+        "number": 4,
+        "title": "CAPÍTULO IV",
+        "start": "Dejando el camino real a la derecha, nos dirigimos por una senda áspera y tortuosa para atravesar la sierra."
+      },
+      {
+        "number": 5,
+        "title": "CAPÍTULO V",
+        "start": "—Puesto que usted ha nombrado a una persona que tanta parte ha tenido en que yo abandonase el perverso siglo, y puesto que usted conoció entonces mis secretos, nada debo ocultarle."
+      }
+    ]
+  }

@@ -1,0 +1,25 @@
+{
+  "books": [
+    {
+      "id": "book1",
+      "title": "El sombrero de tres picos",
+      "author": "Pedro Antonio de Alarcón",
+      "chapters": 36,
+      "published chapters": 5
+    },
+    { 
+      "id": "book2",
+      "title": "El señor de Bembibre",
+      "author": "Enrique Gil y Carrasco",
+      "chapters": 39,
+      "published chapters": 5
+    },
+    { 
+      "id": "book3",
+      "title": "La batalla de los Arapiles",
+      "author": "Benito Pérez Galdós",
+      "chapters": 43,
+      "published chapters": 5
+    }
+  ]
+}

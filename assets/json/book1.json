@@ -1,0 +1,32 @@
+{
+  "author": "Pedro Antonio de Alarcón",  
+  "book_title": "El sombrero de tres picos",
+  "author_id": "alarcon",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "DE CUÁNDO SUCEDIÓ LA COSA",
+      "start": "Comenzaba este largo siglo, que ya va de vencida.--No se sabe fijamente el año: sólo consta que era después del de 4 y antes del de 8."
+    },
+    {
+      "number": 2,
+      "title": "DE CÓMO VIVÍA ENTONCES LA GENTE",
+      "start": "En Andalucía, por ejemplo (pues precisamente aconteció en una ciudad de Andalucía lo que vais a oír), las personas de _suposición_ continuaban levantándose muy temprano"
+    },
+    {
+      "number": 3,
+      "title": "DO UT DES",
+      "start": "En aquel tiempo, pues, había cerca de la ciudad de *** un famoso molino, harinero (que ya no existe), situado como a un cuarto de legua de la población"
+    },
+    {
+      "number": 4,
+      "title": "UNA MUJER VISTA POR FUERA",
+      "start": "La última y acaso la más poderosa razón que tenía el _señorío_ de la ciudad para frecuentar por las tardes el molino del tío Lucas"
+    },
+    {
+      "number": 5,
+      "title": "UN HOMBRE VISTO POR FUERA Y POR DENTRO",
+      "start": "El tío Lucas era más feo que Picio. Lo había sido toda su vida, y ya tenía cerca de cuarenta años."
+    }
+  ]
+}

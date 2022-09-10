@@ -1,0 +1,32 @@
+{
+    "author": "Enrique Gil y Carrasco",
+    "book_title": "El señor de Bembibre",
+    "author_id": "carrasco",
+    "chapters": [
+      {
+        "number": 1,
+        "title": "CAPÍTULO I",
+        "start": "En una tarde de Mayo de uno de los primeros años del siglo XIV, volvían de la feria de San Marcos de Cacabelos, tres al parecer criados de alguno de los grandes señores que entonces se repartían el dominio del Bierzo."
+      },
+      {
+        "number": 2,
+        "title": "CAPÍTULO II",
+        "start": "Algo habrán columbrado ya nuestros lectores de la situación en que a la sazón se encontraba la familia de Arganza y el señor de Bembibre, merced a la locuacidad de sus respectivos criados."
+      },
+      {
+        "number": 3,
+        "title": "CAPÍTULO III",
+        "start": "Cuando don Álvaro dejó el palacio de Arganza, entre el tumulto de sentimientos que se disputaban su alma, había uno que cuadraba muy bien con su despecho y amargura, y que de consiguiente a todos se sobreponía."
+      },
+      {
+        "number": 4,
+        "title": "CAPÍTULO IV",
+        "start": "La caballería del templo de Salomón había nacido en el mayor fervor de las cruzadas, y los sacrificios y austeridades que les imponía su regla, dictada por el entusiasmo y celo ardiente de San Bernardo, les habían granjeado el respeto y aplauso universal."
+      },
+      {
+        "number": 5,
+        "title": "CAPÍTULO V",
+        "start": "Aunque don Álvaro no fundase grandes esperanzas en su entrevista con el abad, todavía le causó sorpresa el resultado: flaqueza irremediable del pobre corazón humano, que sólo a vista de la realidad inexorable y fría, acierta a separarse del talismán que hermosea y dulcifica la vida: la esperanza."
+      }
+    ]
+  }
